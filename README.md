@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Venkat-M-9
+- 👋 Hi, I’m @Venkat.M
 - 👀 I’m interested in ...Web development,game development
 - 🌱 I’m currently learning ...DSA,ML
 - 💞️ I’m looking to collaborate on ...Open-source projects
